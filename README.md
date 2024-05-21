@@ -21,3 +21,17 @@ The following suggestions are best practices for writing prompts for LLMs:
 * Provide context. Providing context allows the LLM to understand the nuances of the relevant issue and generate more informed responses.
 * Try multiple prompts. Trying different prompts can provide different perspectives on a problem and enable the LLM to generate a variety of useful responses.
 
+To help get you started, consider the following specific examples of prompts that data professionals can give an LLM:
+
+“Act as a data scientist and write a detailed plan for a credit card fraud detection project.”
+
+“I have a dataset of customer purchases at an online retail store. Act as a data scientist and write Python code for data visualization and exploration.”
+
+“I have a dataset of customer characteristics and churn for an online video streaming service. Act as a data scientist and create a shared document for a team meeting.” 
+
+“Act as a data generator and use Python code to generate a CSV file that contains mock employee data for a restaurant chain named Fast. The dataset has 100 rows and 5 columns. The columns are name, address, employee_id, department_id, email.”
+
+“Act as a communications expert and share best practices for explaining a data science report to a business executive with no technical background.”
+
+
+
