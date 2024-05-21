@@ -14,3 +14,10 @@ Edge computing: A way of distributing computational tasks over a bunch of nearby
 
 Aggregate information: Data from a significant number of users that has eliminated personal information
 
+The following suggestions are best practices for writing prompts for LLMs:
+* Be clear and concise in your instructions. It is important to be clear and concise in your instructions so the LLM can understand how to help you. Details are great—just make sure they’re useful and relevant. Avoid giving the LLM unnecessary information.  
+* Be precise. When posing a question to an LLM, be precise about the input (if any) and the desired output.
+* Include a description of LLM’s role. This reinforces the purpose of your prompt. For example, you can tell the LLM to assume the role of a data scientist by writing “Act as a data scientist” or “You are a data scientist.”
+* Provide context. Providing context allows the LLM to understand the nuances of the relevant issue and generate more informed responses.
+* Try multiple prompts. Trying different prompts can provide different perspectives on a problem and enable the LLM to generate a variety of useful responses.
+
