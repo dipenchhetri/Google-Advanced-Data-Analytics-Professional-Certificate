@@ -33,5 +33,18 @@ To help get you started, consider the following specific examples of prompts tha
 
 “Act as a communications expert and share best practices for explaining a data science report to a business executive with no technical background.”
 
+Imagine you are a new data professional, recently hired by a healthcare company. The company sells sustainable medical devices to hospitals and clinics in urban communities. Leadership has asked the data team to develop a machine learning model to accurately predict future sales. A powerful model will help company leaders make informed decisions about inventory management, resource allocation, overall sales strategy, and more. As the newest member of the data team, you’re excited to start your first project. 
+
+Project proposal. To get started, your manager asks you to organize a kickoff meeting with the team to outline the project workflow and timeline. You want to send the invite as soon as possible, and could use some help creating a document for the meeting. Prompt: Ask Gemini for instructions create a shared document to facilitate a brainstorming session among a team of data professionals.
+
+Data cleaning. Following the team meeting, you help draft a project proposal to outline key deliverables and milestones for the project. Then, the team collects the relevant data. The next step is to clean the dataset. You volunteer to perform this task for the team. The team is using the Python programming language for this project, and you’d like some coding suggestions for data cleaning. Prompt: Ask Gemini to write Python code to clean data by removing missing values, outliers, and duplicate data. 
+
+Data visualization. Now that the team has a clean dataset to work with, the next step is to explore and visualize the data. Your manager asks if you can help create some data visualizations to better understand the relationships between key variables. To get started, you brainstorm with B. Prompt: Ask Gemini to suggest useful data visualizations for sales data.
+
+Build and test machine learning models. As a new data professional, you are not directly involved in writing code to build and test different machine learning models. However, you want to learn more about the uses of machine learning for data work as this will be an important part of your future career, and will help you better understand the current project. Prompt: Ask Gemini about the main uses and benefits of machine learning for data work. 
+
+Executive summary. The data team successfully builds a model that accurately predicts future sales. Now, the team is ready to share their results and insights with project stakeholders. Your manager asks you to help draft an executive summary for a meeting with company leadership. Before you begin, you want to review best practices so you can create a polished deliverable. Prompt: Ask Gemini about best practices for creating an executive summary for business executives without a technical background.
+
+
 
 
